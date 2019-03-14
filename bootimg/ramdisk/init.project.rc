@@ -1,0 +1,8 @@
+#nubia add for bootsound
+on init
+    on property:sys.zte.boot.sound.completed=1
+    start media
+
+    chmod 0664 /system/media/audio/ui/bootup.wav
+    chmod 0755 /system/bin/bootsound.sh
+#nubia add end

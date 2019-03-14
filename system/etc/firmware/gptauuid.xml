@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+http://www.ietf.org/rfc/rfc4122.txt
+-->
+
+
+<image_list>
+  <image name="gptest.mbn">
+    <uuid>"cad10542-34e4-452d-6156e979aa6e61bc"</uuid>
+    <info>"QCOM GP Test Application"</info>
+  </image>
+
+  <image name="gpsample.mbn">
+    <uuid>"5AF8C3E6-D9DF-446E-4ff2d4d58e8ca49b"</uuid>
+    <info>"GP Sample App"</info>
+  </image>
+
+  <image name="alipay.mbn">
+    <uuid>"4b273faa-ce6f-11e6-9d9dcec0c932ce01"</uuid>
+    <info>"GP ifaa TA"</info>
+  </image>
+
+</image_list>
+
+
